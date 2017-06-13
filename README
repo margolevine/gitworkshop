@@ -3,6 +3,7 @@ Notes for a git workshop
 git init: initializes directory for git
 git status: tells us status of what's going on
 git add: adds file to staging area
+git commit -m "comments relevant to commit"
 
 states of a file
 1.  file can be untracked/uncommitted
