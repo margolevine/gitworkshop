@@ -4,8 +4,13 @@ git init: initializes directory for git
 git status: tells us status of what's going on
 git add: adds file to staging area
 git commit -m "comments relevant to commit"
+git log -N: lists the last N changes in commit history
 
 states of a file
 1.  file can be untracked/uncommitted
 2.  file can be staged 
 3.  staged file can be committed
+
+git remote origin NAME_OF_REPO_ON_GITHUB: gives repo on github an alias name of origin, for ease of pushing
+
+git push origin master: pushes everything to github 
