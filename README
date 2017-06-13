@@ -1,0 +1,10 @@
+Notes for a git workshop
+
+git init: initializes directory for git
+git status: tells us status of what's going on
+git add: adds file to staging area
+
+states of a file
+1.  file can be untracked/uncommitted
+2.  file can be staged 
+3.  staged file can be committed
